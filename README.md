@@ -1,19 +1,31 @@
-# Project Title
+Happy Birthday
 
-A brief description of what this project does and who it's for
+A Happy Birthday animation design in CSS3, HTML5.
 
-## Installation
+URL: (https://github.com/samkhan226/bday)
 
-Instructions for installing and setting up your project locally:
-```bash
-# Clone this repository
-git clone(https://github.com/samkhan226/bday/new/main)
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-# Go into the repository
-cd your-project-name
+# Setup
 
-# Install dependencies
+## If you have python installed:
+```
+cd Birthday
+```
+
+&& 
+
+```
+python -m SimpleHTTPServer --port  8081
+```
+
+visit http://localhost:8081 in your browser.
+
+## If you have nodejs installed
+```
 npm install
+```
+&&
 
-# Run the app
-npm start
+```
+npm run server-node
